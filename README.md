@@ -1,2 +1,0 @@
-# TermTux
-A advanced terminal
